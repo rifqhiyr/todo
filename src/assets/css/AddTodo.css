@@ -1,0 +1,20 @@
+.form-add {
+  display: flex;
+}
+
+.form-add .input-form {
+  flex: 6;
+  padding: 10px;
+}
+
+.form-add .btn-submit {
+  flex: 1;
+  background-color: #555;
+  color: white;
+  font-weight: 600;
+}
+
+.form-add .btn-submit:hover {
+  background-color: sandybrown;
+  color: blue;
+}

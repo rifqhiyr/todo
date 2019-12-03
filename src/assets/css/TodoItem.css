@@ -1,0 +1,23 @@
+.style {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0.5rem;
+  border-bottom: 1px #ccc dotted;
+  background-color: red;
+  text-decoration: line-through;
+}
+
+.unstyle {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0.5rem;
+  border-bottom: 1px #ccc dotted;
+  background-color: #f4f4f4f4;
+  text-decoration: none;
+}
+
+.btn-delete:hover {
+  background-color: sandybrown;
+  color: blue;
+  float: right;
+}
